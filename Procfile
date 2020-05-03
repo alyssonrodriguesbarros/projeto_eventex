@@ -1,0 +1,1 @@
+web: gunicorn projeto_eventex.wsgi --log-file -
